@@ -28,9 +28,9 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `147.0.7695.0` | 363.39 MB | `c970f2368697591d...` | [下载](https://dl.google.com/release2/chrome/jbhwko3ezlecdivmubnuc5tyau_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe) |
-| **x64** | `147.0.7695.0` | 445.72 MB | `428e2f6c4b75af7e...` | [下载](https://dl.google.com/release2/chrome/mritfhqpqrc2gzfqlfygkgv6hm_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `147.0.7695.0` | 428.26 MB | `9aa01d96c59d12dd...` | [下载](https://dl.google.com/release2/chrome/h6jbyvf4ehs7koyqmlsxigfccm_147.0.7695.0/147.0.7695.0_chrome_installer_uncompressed.exe) |
+| **x86** | `147.0.7703.0` | 364.18 MB | `975a4689ef4cfd9d...` | [下载](https://dl.google.com/release2/chrome/prrcwhxt3xbeuurklyovbbsoe4_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe) |
+| **x64** | `147.0.7703.0` | 445.72 MB | `3650807ba282f9ca...` | [下载](https://dl.google.com/release2/chrome/acbfyyydf63modllc4flvkgbvypq_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `147.0.7703.0` | 427.99 MB | `b17693fd93df342f...` | [下载](https://dl.google.com/release2/chrome/f5ddyuxlhdyxqtmxaqpj4on5xe_147.0.7703.0/147.0.7703.0_chrome_installer_uncompressed.exe) |
 
 ## Canary
 
@@ -38,5 +38,5 @@
 |------|--------|----------|-------------|----------|
 | **x86** | `147.0.7705.1` | 547.63 MB | `be6551613bac5cb9...` | [下载](https://dl.google.com/release2/chrome/ac443mr67mqzmyhzqox7hy2c7b3q_147.0.7705.1/147.0.7705.1_chrome_installer_uncompressed.exe) |
 | **x64** | `147.0.7705.1` | 665.45 MB | `dc43219803cb850f...` | [下载](https://dl.google.com/release2/chrome/ac4wiok7oyrl3l7m6tdvwz6vvdra_147.0.7705.1/147.0.7705.1_chrome_installer_uncompressed.exe) |
-| **ARM64** | `147.0.7705.0` | 429.57 MB | `f0030706a7274dbd...` | [下载](https://dl.google.com/release2/chrome/l4vngbwg2u2sbxxgy3jfvy237y_147.0.7705.0/147.0.7705.0_chrome_installer_uncompressed.exe) |
+| **ARM64** | `147.0.7705.1` | 602.42 MB | `9a06c789c4532a77...` | [下载](https://dl.google.com/release2/chrome/adulsfmcqxxluih2ydu4fmonq2aa_147.0.7705.1/147.0.7705.1_chrome_installer_uncompressed.exe) |
 
