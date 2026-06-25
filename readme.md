@@ -36,7 +36,7 @@
 
 | 架构 | 版本号 | 文件大小 | SHA256 校验 | 下载链接 |
 |------|--------|----------|-------------|----------|
-| **x86** | `151.0.7911.0` | 383.77 MB | `e9f30823c91b42ef...` | [下载](https://dl.google.com/release2/chrome/ga2ku6epxqliydu7hehm4pwrb4_151.0.7911.0/151.0.7911.0_chrome_installer_uncompressed.exe) |
-| **x64** | `151.0.7911.0` | 470.06 MB | `d6abfd6ab56aa202...` | [下载](https://dl.google.com/release2/chrome/gdqcaaexe2uifck4p5li4cevfq_151.0.7911.0/151.0.7911.0_chrome_installer_uncompressed.exe) |
-| **ARM64** | `151.0.7911.1` | 633.03 MB | `27eea2ad6dc54b2c...` | [下载](https://dl.google.com/release2/chrome/ad64agbt7fbm76maggfhfvqvyrea_151.0.7911.1/151.0.7911.1_chrome_installer_uncompressed.exe) |
+| **x86** | `151.0.7912.0` | 383.88 MB | `7a8c4f101812f68d...` | [下载](https://dl.google.com/release2/chrome/acxzcymd4kvcevzhs6bj7mol7mxq_151.0.7912.0/151.0.7912.0_chrome_installer_uncompressed.exe) |
+| **x64** | `151.0.7912.1` | 705.72 MB | `45da594d29b12109...` | [下载](https://dl.google.com/release2/chrome/adpa2tvpf5gu2nyfmglmu4l7zp3q_151.0.7912.1/151.0.7912.1_chrome_installer_uncompressed.exe) |
+| **ARM64** | `151.0.7912.0` | 449.01 MB | `6eb651e2a0b6fbfe...` | [下载](https://dl.google.com/release2/chrome/adylm726qp7objatqhqohvoym27q_151.0.7912.0/151.0.7912.0_chrome_installer_uncompressed.exe) |
 
